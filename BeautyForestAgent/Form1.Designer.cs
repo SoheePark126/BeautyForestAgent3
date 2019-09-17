@@ -63,7 +63,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(466, 14);
             this.label1.TabIndex = 1;
-            this.label1.Text = "(주)미림스쿨 - Beauty Forest Agent v0.3 by [3606] [박소]";
+            this.label1.Text = "(주)미림스쿨 - Beauty Forest Agent v0.3 by [3606] [박소희]";
             // 
             // btnTray
             // 
